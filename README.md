@@ -6,7 +6,7 @@ Se trata de una aplicación web para elaborar y consultar un repositorio de alim
 
 Los archivos php del proyecto pueden descargarse del siguiente enlace en .zip:
 
-Proyecto alimentos
+Proyecto alimentos ale
 
 Dispone de 2 carpetas:
 
