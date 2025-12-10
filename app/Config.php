@@ -1,5 +1,6 @@
 <?php
 
+//Config de la base de datos
  class Config
  {
      static public $mvc_bd_hostname = "localhost";
