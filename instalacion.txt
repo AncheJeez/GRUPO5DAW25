@@ -1,0 +1,3 @@
+Hemos usado CDMON mediante SSH y comandos de git  , creamos un hostin en
+CDMON y nos hemos conectaod mediante ssh desde la terminal de linux usando
+mediante la ip del hostin y con un usuario creado para ssh en CDMON
